@@ -1,0 +1,31 @@
+2023-09-12 19:11:01,220.message_consumer_stars.INFO ==================================================
+2023-09-12 19:11:01,220.message_consumer_stars.INFO Today is 2023-09-12 at 07:11 PM
+2023-09-12 19:11:01,220.message_consumer_stars.INFO Running on: posix Darwin 22.5.0
+2023-09-12 19:11:01,220.message_consumer_stars.INFO Python version:  3.11.2
+2023-09-12 19:11:01,220.message_consumer_stars.INFO Python path: /Users/macbeth/Documents/Streaming Data/Module 4/streaming-04-bonus-harvey/.venv
+2023-09-12 19:11:01,220.message_consumer_stars.INFO Working dir: /Users/macbeth/Documents/Streaming Data/Module 4/streaming-04-bonus-harvey
+2023-09-12 19:11:01,220.message_consumer_stars.INFO ==================================================
+2023-09-12 19:11:01,230.message_consumer_stars.INFO  [*] Ready for work. To exit press CTRL+C
+2023-09-12 19:11:06,147.message_consumer_stars.INFO  [x] Received 3.75
+2023-09-12 19:11:06,147.message_consumer_stars.INFO  [x] Done.
+2023-09-12 19:11:09,154.message_consumer_stars.INFO  [x] Received 1
+2023-09-12 19:11:09,154.message_consumer_stars.INFO  [x] Done.
+2023-09-12 19:11:12,160.message_consumer_stars.INFO  [x] Received 2.25
+2023-09-12 19:11:12,160.message_consumer_stars.INFO  [x] Done.
+2023-09-12 19:11:15,168.message_consumer_stars.INFO  [x] Received 2.75
+2023-09-12 19:11:15,168.message_consumer_stars.INFO  [x] Done.
+2023-09-12 19:11:18,174.message_consumer_stars.INFO  [x] Received 3.75
+2023-09-12 19:11:18,175.message_consumer_stars.INFO  [x] Done.
+2023-09-12 19:11:21,181.message_consumer_stars.INFO  [x] Received 4.75
+2023-09-12 19:11:21,182.message_consumer_stars.INFO  [x] Done.
+2023-09-12 19:11:24,185.message_consumer_stars.INFO  [x] Received 4
+2023-09-12 19:11:24,186.message_consumer_stars.INFO  [x] Done.
+2023-09-12 19:11:27,192.message_consumer_stars.INFO  [x] Received 3.75
+2023-09-12 19:11:27,193.message_consumer_stars.INFO  [x] Done.
+2023-09-12 19:11:30,196.message_consumer_stars.INFO  [x] Received 0.25
+2023-09-12 19:11:30,197.message_consumer_stars.INFO  [x] Done.
+2023-09-12 19:11:33,201.message_consumer_stars.INFO  [x] Received 2.5
+2023-09-12 19:11:33,201.message_consumer_stars.INFO  [x] Done.
+2023-09-12 19:11:36,206.message_consumer_stars.INFO  [x] Received 5
+2023-09-12 19:11:36,206.message_consumer_stars.INFO  [x] Done.
+2023-09-12 19:11:43,856.message_consumer_stars.WARNING  User interrupted continuous listening process.

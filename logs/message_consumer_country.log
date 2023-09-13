@@ -1,0 +1,31 @@
+2023-09-12 19:10:57,648.message_consumer_country.INFO ==================================================
+2023-09-12 19:10:57,648.message_consumer_country.INFO Today is 2023-09-12 at 07:10 PM
+2023-09-12 19:10:57,648.message_consumer_country.INFO Running on: posix Darwin 22.5.0
+2023-09-12 19:10:57,648.message_consumer_country.INFO Python version:  3.11.2
+2023-09-12 19:10:57,648.message_consumer_country.INFO Python path: /Users/macbeth/Documents/Streaming Data/Module 4/streaming-04-bonus-harvey/.venv
+2023-09-12 19:10:57,648.message_consumer_country.INFO Working dir: /Users/macbeth/Documents/Streaming Data/Module 4/streaming-04-bonus-harvey
+2023-09-12 19:10:57,648.message_consumer_country.INFO ==================================================
+2023-09-12 19:10:57,679.message_consumer_country.INFO  [*] Ready for work. To exit press CTRL+C
+2023-09-12 19:11:06,147.message_consumer_country.INFO  [x] Received Japan
+2023-09-12 19:11:06,147.message_consumer_country.INFO  [x] Done.
+2023-09-12 19:11:09,154.message_consumer_country.INFO  [x] Received Taiwan
+2023-09-12 19:11:09,154.message_consumer_country.INFO  [x] Done.
+2023-09-12 19:11:12,160.message_consumer_country.INFO  [x] Received USA
+2023-09-12 19:11:12,160.message_consumer_country.INFO  [x] Done.
+2023-09-12 19:11:15,167.message_consumer_country.INFO  [x] Received Taiwan
+2023-09-12 19:11:15,168.message_consumer_country.INFO  [x] Done.
+2023-09-12 19:11:18,174.message_consumer_country.INFO  [x] Received India
+2023-09-12 19:11:18,175.message_consumer_country.INFO  [x] Done.
+2023-09-12 19:11:21,181.message_consumer_country.INFO  [x] Received South Korea
+2023-09-12 19:11:21,182.message_consumer_country.INFO  [x] Done.
+2023-09-12 19:11:24,185.message_consumer_country.INFO  [x] Received Japan
+2023-09-12 19:11:24,186.message_consumer_country.INFO  [x] Done.
+2023-09-12 19:11:27,192.message_consumer_country.INFO  [x] Received Japan
+2023-09-12 19:11:27,193.message_consumer_country.INFO  [x] Done.
+2023-09-12 19:11:30,196.message_consumer_country.INFO  [x] Received Japan
+2023-09-12 19:11:30,197.message_consumer_country.INFO  [x] Done.
+2023-09-12 19:11:33,200.message_consumer_country.INFO  [x] Received Singapore
+2023-09-12 19:11:33,201.message_consumer_country.INFO  [x] Done.
+2023-09-12 19:11:36,205.message_consumer_country.INFO  [x] Received Thailand
+2023-09-12 19:11:36,205.message_consumer_country.INFO  [x] Done.
+2023-09-12 19:11:42,022.message_consumer_country.WARNING  User interrupted continuous listening process.
